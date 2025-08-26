@@ -1,50 +1,76 @@
-# 👋 Hi, I'm Marwan Alaa  
+<!-- Neon Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/z6Wb8vM/marwan-neon-banner.gif" alt="Marwan Alaa Neon Banner" width="100%">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Marawanalaa18&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/Marawanalaa18?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/Marawanalaa18?style=social)  
+<h1 align="center">⚡👾 Hey, I'm <span style="color:#00ffe7;">Marwan Alaa</span> 👾⚡</h1>
 
----
-
-## 🚀 About Me  
-🎓 Computer Science Student @ Faculty of Computers and Information  
-💡 Passionate about **programming, problem-solving, and educational content**  
-🎨 I love building **projects that combine tech, design & learning**  
-
----
-
-## 🛠️ Tech Stack  
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Marawanalaa18&color=00ffe7&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Marawanalaa18?label=Followers&style=for-the-badge&color=ff00ff">
+  <img src="https://img.shields.io/github/stars/Marawanalaa18?label=Stars&style=for-the-badge&color=00ff99">
+</p>
 
 ---
 
-## 📂 Featured Projects  
-- 🖥️ **Elderly Care Management System** – Windows Forms app with database integration  
-- 📘 **Programming Quizzes & Study Material** – MCQs, Fill-in-the-blanks & theory  
+## 🪐 About Me  
+
+💻 Computer Science Student  
+🎨 Passionate about **coding, creativity, and design**  
+⚡ Exploring **C++, C#, .NET, and Web Development**  
+👨‍🏫 I create **educational content & projects** that mix **tech + fun**  
 
 ---
 
-## 📊 GitHub Stats  
+## ⚔️ Tech Stack  
 
-![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marawanalaa18&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marawanalaa18&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Marawanalaa18&theme=tokyonight&hide_border=true)  
-
----
-
-## 📫 Connect with Me  
-
-🌍 Website: [Marwan Design Hub](https://marawanalaa.wuiltweb.com)  
-📧 Email: **marawanalaa18@gmail.com**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,java,python,git,github" />
+</p>
 
 ---
 
-⭐️ If you like my work, don’t forget to **star my repositories**!
+## 🌌 Featured Projects  
+
+🚀 **Elderly Care Management System** – Full Windows Forms App  
+🌐 **Marwan Design Hub** – Personal Educational Platform  
+📘 **Programming Quizzes & Study Material** – CS resources for students  
+
+---
+
+## 🔥 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marawanalaa18&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marawanalaa18&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Marawanalaa18&theme=radical&hide_border=true&border_radius=15" height="200"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://marawanalaa.wuiltweb.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌍 Website-00ffe7?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:marawanalaa18@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/FXm7zCY/neon-divider.gif" width="80%">
+</p>
+
+<!-- Signature GIF -->
+<p align="center">
+  <img src="https://i.ibb.co/f8r2MZy/hacker-neon.gif" width="400px" alt="Neon Hacker">
+</p>
+
+<p align="center">⭐ If you like my work, consider giving my repos a <b style="color:#00ffe7;">Star</b> ⚡</p>
